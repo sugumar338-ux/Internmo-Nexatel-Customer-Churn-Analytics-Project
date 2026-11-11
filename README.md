@@ -1,0 +1,2 @@
+# Internmo-Nexatel-Customer-Churn-Analytics-Project
+The NexaTel Customer Churn Analytics Project is an end-to-end data analytics project where students analyze telecom customer data to identify the key factors driving customer churn. The project covers data cleaning, exploratory data analysis (EDA), KPI calculations, SQL analysis, and Power BI dashboard development to generate actionable businesses.
